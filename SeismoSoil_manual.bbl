@@ -1,0 +1,87 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Archuleta and Liu}(2004)}]{Archuleta_Liu_2004}
+Archuleta, R.~J., and P.~Liu (2004), Improved predication method for time
+  histories of near-field ground motions with application to southern
+  {California}, \textit{Tech. rep.}, United States Geological Survey.
+
+\bibitem[{\textit{Assimaki and Kausel}(2002)}]{Assimaki_Kausel_2002}
+Assimaki, D., and E.~Kausel (2002), An equivalent linear algorithm with
+  frequency- and pressure-dependent moduli and damping for the seismic analysis
+  of deep sites, \textit{Soil Dynamics and Earthquake Engineering},
+  \textit{22}(9--12), 959--965.
+
+\bibitem[{\textit{Darendeli}(2001)}]{Darendeli_2001}
+Darendeli, M.~B. (2001), Development of a new family of normalized modulus
+  reduction and material damping curves, Ph.D. thesis, University of Texas at
+  Austin.
+
+\bibitem[{\textit{Haskell}(1953)}]{Haskell_1953}
+Haskell, N.~A. (1953), The dispersion of surface waves on multilayered media,
+  \textit{Bulletin of the seismological Society of America}, \textit{43}(1),
+  17--34.
+
+\bibitem[{\textit{Idriss and Sun}(1992)}]{shake91_manual}
+Idriss, I., and J.~I. Sun (1992), \textit{User's manual for {SHAKE-91}: a
+  computer program for conducting equivalent linear seismic response analyses
+  of horizontally layered soil deposits}.
+
+\bibitem[{\textit{Konno and Ohmachi}(1998)}]{Konno_Ohmachi_1998}
+Konno, K., and T.~Ohmachi (1998), Ground-motion characteristics estimated from
+  spectral ratio between horizontal and vertical components of microtremor,
+  \textit{Bulletin of the Seismological Society of America}, \textit{88}(1),
+  228--241.
+
+\bibitem[{\textit{Kramer}(1996)}]{Kramer1996}
+Kramer, S.~L. (1996), \textit{{Geotechnical} {Earthquake} {Engineering}},
+  Prentice Hall, Upper Saddle River, New Jersey.
+
+\bibitem[{\textit{Li and Assimaki}(2010)}]{Li_Assimaki_2010_BSSA}
+Li, W., and D.~Assimaki (2010), Site- and motion-dependent parametric
+  uncertainty of site-response analyses in earthquake simulations,
+  \textit{Bulletin of the Seismological Society of America}, \textit{100}(3),
+  954--968.
+
+\bibitem[{\textit{Liu and Archuleta}(2006)}]{LiuPC_Archuleta_2006}
+Liu, P.-C., and R.~J. Archuleta (2006), Efficient modeling of {Q} for {3D}
+  numerical simulation of wave propagation, \textit{Bulletin of the
+  Seismological Society of America}, \textit{96}(4A), 1352--1358.
+
+\bibitem[{\textit{Matasovic and Vucetic}(1993)}]{Matasovic_Vucetic_1993}
+Matasovic, J., and M.~Vucetic (1993), Cyclic characterization of liquefiable
+  sands, \textit{Journal of Geotechnical Engineering}, \textit{119}(11),
+  1805--1822.
+
+\bibitem[{\textit{Muravskii}(2005)}]{Muravskii_2005}
+Muravskii, G. (2005), On description of hysteretic behavior of materials,
+  \textit{International Journal of Solids and Structures}, \textit{42},
+  2625--2644.
+
+\bibitem[{\textit{Schnabel et~al.}(1972)\textit{Schnabel, Lysmer, and
+  Seed}}]{Schnabel1972SHAKE}
+Schnabel, P.~B., J.~Lysmer, and H.~B. Seed (1972), {SHAKE}: {A} computer
+  program for earthquake response analyses of horizontally layered sites,
+  \textit{Report No. EERC 72-12}, Earthquake Engineering Research Center,
+  University of California at Berkeley.
+
+\bibitem[{\textit{Seed and Idriss}(1970)}]{Seed_Idriss_1970_techreport}
+Seed, H.~B., and I.~M. Idriss (1970), Soil moduli and damping factors for
+  dynamic response analyses, \textit{UCB/EERC- 70/10}, Earthquake Engineering
+  Research Center, University of California at Berkeley.
+
+\bibitem[{\textit{Shi and Asimaki}(2017)}]{Shi_Asimaki_2017}
+Shi, J., and D.~Asimaki (2017), From stiffness to strength: Formulation and
+  validation of a hybrid hyperbolic nonlinear soil model for site-response
+  analyses, \textit{Bulletin of the Seismological Society of America},
+  \textit{107}(3), 1336--1355, \doi{10.1785/0120150287}.
+
+\bibitem[{\textit{Thomson}(1950)}]{Thomson_1950}
+Thomson, W.~T. (1950), Transmission of elastic waves through a stratified solid
+  medium, \textit{Journal of applied Physics}, \textit{21}(2), 89--93.
+
+\end{thebibliography}
